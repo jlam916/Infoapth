@@ -1,0 +1,11 @@
+\\hqsrvf01\home\JLam1\InfoPath Projects\Form33\bin\Release\Form3.dll
+\\hqsrvf01\home\JLam1\InfoPath Projects\Form33\obj\Release\ResolveAssemblyReference.cache
+\\hqsrvf01\home\JLam1\InfoPath Projects\Form33\obj\Release\Form3.dll
+\\hqsrvf01\home\JLam1\InfoPath Projects\Form33\bin\Debug\Form3.dll
+\\hqsrvf01\home\JLam1\InfoPath Projects\Form33\bin\Debug\Form3.pdb
+\\hqsrvf01\home\JLam1\InfoPath Projects\Form33\obj\Debug\ResolveAssemblyReference.cache
+\\hqsrvf01\home\JLam1\InfoPath Projects\Form33\obj\Debug\Form3.dll
+\\hqsrvf01\home\JLam1\InfoPath Projects\Form33\obj\Debug\Form3.pdb
+\\hqsrvf01\home\JLam1\InfoPath Projects\Form33\bin\Debug\Interop.Sidebar.dll
+\\hqsrvf01\home\JLam1\InfoPath Projects\Form33\obj\Debug\Interop.Sidebar.dll
+\\hqsrvf01\home\JLam1\InfoPath Projects\Form33\obj\Debug\Form3.vbproj.ResolveComReference.cache
