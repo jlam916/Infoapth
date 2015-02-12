@@ -12,3 +12,9 @@
 \\hqsrvf01\home\JLam1\InfoPath Projects\Form 8\obj\Release\ResolveAssemblyReference.cache
 \\hqsrvf01\home\JLam1\InfoPath Projects\Form 8\obj\Release\Form5.vbproj.ResolveComReference.cache
 \\hqsrvf01\home\JLam1\InfoPath Projects\Form 8\obj\Release\Form5.dll
+\\hqsrvf01\home\JLam1\InfoPath Projects\Form 8\bin\Debug\Form5.dll
+\\hqsrvf01\home\JLam1\InfoPath Projects\Form 8\bin\Debug\Form5.pdb
+\\hqsrvf01\home\JLam1\InfoPath Projects\Form 8\obj\Debug\ResolveAssemblyReference.cache
+\\hqsrvf01\home\JLam1\InfoPath Projects\Form 8\obj\Debug\Form5.vbproj.ResolveComReference.cache
+\\hqsrvf01\home\JLam1\InfoPath Projects\Form 8\obj\Debug\Form5.dll
+\\hqsrvf01\home\JLam1\InfoPath Projects\Form 8\obj\Debug\Form5.pdb
